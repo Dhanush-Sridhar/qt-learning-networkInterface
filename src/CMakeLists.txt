@@ -9,7 +9,7 @@ target_link_libraries(${EXEC_NAME}
 
 target_sources(${EXEC_NAME} PRIVATE
 	./main.cpp
-	## ./myNetworkInterface.h
-	##	./myNetworkInterface.cpp
+	./myNetworkInterface.h
+	./myNetworkInterface.cpp
 	
 	)
