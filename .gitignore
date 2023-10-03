@@ -1,0 +1,14 @@
+.cmake
+.qt
+
+.ninja*
+
+CMakeCache.txt
+learning-qt-NetworkInterface_autogen/*
+learning-qt-NetworkInterface
+
+CMakeFiles/*
+Testing/*
+
+
+
